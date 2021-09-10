@@ -1,0 +1,50 @@
+#all {
+    background-color:#ffb3b3
+}
+
+#praying{
+    width: auto;
+    height: 35vh;
+}
+
+#garen{
+    width: 30vw;
+    height: auto;
+}
+
+#demacia{
+    width: 30vw;
+    height: auto;
+}
+
+.top {
+    color: #ff0000;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.desc{
+    background-color: white;
+    border: 3px solid black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.desc > p {
+    color: #0000ff;
+}
+
+.text1 {
+    color: #da3030;
+}
+
+.text2 {
+    color: #00ff00;
+}
+
+.nav {
+    color: rgb(40, 106, 106);
+    background-color: white;
+}
+
+.nav:hover {
+    font-size: 2em;
+}
