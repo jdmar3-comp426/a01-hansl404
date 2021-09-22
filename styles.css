@@ -1,6 +1,7 @@
 #all {
     background: linear-gradient(45deg, #7b9cff, #b0b0b3);
     height: 100vh;
+    overflow: auto;
 }
 
 #praying{
