@@ -1,0 +1,56 @@
+#all {
+    background: linear-gradient(45deg, #7b9cff, #b0b0b3);
+    height: 100vh;
+    overflow: auto;
+}
+
+#praying{
+    width: auto;
+    height: 35vh;
+}
+
+#garen{
+    width: 50vw;
+    height: auto;
+}
+
+#demacia{
+    width: 50vw;
+    height: auto;
+}
+
+.top {
+    color: #ff0000;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.desc{
+    background-color: #ffffff;
+    border: 3px solid #000000;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.desc > p {
+    color: #0000ff;
+}
+
+.text1 p {
+    color: #802929;
+}
+
+.text1 {
+    color: #da3030;
+}
+
+.text2 {
+    color: #00ff00;
+}
+
+.nav {
+    color: #1da558;
+    background-color: #ffffff;
+}
+
+.nav:hover {
+    font-size: 1.5em;
+}
